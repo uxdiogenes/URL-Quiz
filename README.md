@@ -1,6 +1,6 @@
-# URL-Quiz - A Quiz to Help You Learn About Relative URLs and Filepaths
+# URL-Quiz - A Quiz to Help You Learn About Relative URLs
 
-This repo is a sample file structure and directory tree for use with this quiz. Use it to figure out what relative URL or path you would use to get from the first location or file to the second. A sample answer is included below.
+This repo is a sample file structure and directory tree for use with this quiz. Use it to figure out what relative URL you would use to get from the first file to the second. Essentially, if the first file were an HTML page and you needed to link to the second file, what URL would you put in the "href" attribute, such that the link would work no matter where the root URL quiz folder was located. A sample answer is included below.
 
 ## Example:
 Question: /mutt/poodle/schoodle.dog => /mutt/poodle/malti-poo.dog
